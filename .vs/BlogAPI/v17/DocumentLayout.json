@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project Practise\\BlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D5E636-C114-40F9-9DF5-7DB0A649F49F}|BlogAPI\\BlogAPI.csproj|f:\\project practise\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D5E636-C114-40F9-9DF5-7DB0A649F49F}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D6E4D3-253F-49F1-B409-16FB08AA6758}|DBManager\\DBManager.csproj|f:\\project practise\\blogapi\\dbmanager\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D6E4D3-253F-49F1-B409-16FB08AA6758}|DBManager\\DBManager.csproj|solutionrelative:dbmanager\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "F:\\Project Practise\\BlogAPI\\DBManager\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "DBManager\\Services\\PostService.cs",
+              "ToolTip": "F:\\Project Practise\\BlogAPI\\DBManager\\Services\\PostService.cs",
+              "RelativeToolTip": "DBManager\\Services\\PostService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA8wDUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:57:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project Practise\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "F:\\Project Practise\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:06.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

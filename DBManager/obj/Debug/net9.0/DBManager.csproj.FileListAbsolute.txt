@@ -1,0 +1,14 @@
+F:\Project Practise\BlogAPI\DBManager\bin\Debug\net9.0\DBManager.deps.json
+F:\Project Practise\BlogAPI\DBManager\bin\Debug\net9.0\DBManager.runtimeconfig.json
+F:\Project Practise\BlogAPI\DBManager\bin\Debug\net9.0\DBManager.dll
+F:\Project Practise\BlogAPI\DBManager\bin\Debug\net9.0\DBManager.pdb
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.csproj.AssemblyReference.cache
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.AssemblyInfoInputs.cache
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.AssemblyInfo.cs
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.csproj.CoreCompileInputs.cache
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.dll
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\refint\DBManager.dll
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.pdb
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\DBManager.genruntimeconfig.cache
+F:\Project Practise\BlogAPI\DBManager\obj\Debug\net9.0\ref\DBManager.dll
