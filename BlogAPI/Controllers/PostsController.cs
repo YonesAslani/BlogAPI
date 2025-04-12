@@ -76,7 +76,7 @@ namespace BlogAPI.Controllers
 
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete/{id}")]
         public async Task<ActionResult> DeletePost(int id)
         {
             if(!await _postService.IsExistPostAsync(id))
